@@ -180,7 +180,7 @@ Posters and still images
 **************************************/
 
 .scene:nth-child(1) .movie .poster {
-  background-image: url(../img/2.jpg);
+  background-image: url(../img/2.JPG);
 }
 
 .scene:nth-child(2) .poster {
@@ -192,16 +192,16 @@ Posters and still images
 }
 
 .scene:nth-child(4) .movie .poster {
-	background-image: url(../img/6.jpg);
+	background-image: url(../img/6.JPG);
 }
 
 .scene:nth-child(5) .movie .poster {
-	background-image: url(../img/8.jpg);
+	background-image: url(../img/8.JPG);
 }
 
 
 .scene:nth-child(1) .info header {
-	background-image: url(../img/1.jpg);
+	background-image: url(../img/1.JPG);
 }
 
 .scene:nth-child(2) .info header {
@@ -213,11 +213,11 @@ Posters and still images
 }
 
 .scene:nth-child(4) .info header {
-	background-image: url(../img/7.jpg);
+	background-image: url(../img/7.JPG);
 }
 
 .scene:nth-child(5) .info header {
-	background-image: url(../img/8.jpg);
+	background-image: url(../img/8.JPG);
 }
 
 /*************************************
